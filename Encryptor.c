@@ -127,6 +127,3 @@ int main() {
 
     return 0;
 }
-//C:\Users\dudlu\OneDrive\Desktop\abcdefg.txt
-//C:\Users\dudlu\OneDrive\Desktop\ABCD.txt
-//C:\Users\dudlu\OneDrive\Desktop\ABCD(UNENCRYPTED).txt
